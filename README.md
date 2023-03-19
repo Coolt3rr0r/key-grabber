@@ -80,3 +80,5 @@ By using this software, you automatically agree to the above.
 
 # :purple_heart: Thanks for the development help:
 * [Osint inc.]([https://github.com/0xPh0enix](https://github.com/Coolt3rr0r))
+
+# Creаtor: https://github.com/LimerBoy
